@@ -106,7 +106,7 @@ count(sensor)
 ```
 
 
-### Limitations
+## Limitations
 
 While this approach to measuring people is simple, it also has major limitations. 
 If multiple people pass by at once, this algorithm will not be sufficient to accurately measure each person,
